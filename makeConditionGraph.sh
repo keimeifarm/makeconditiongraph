@@ -38,5 +38,6 @@ makeHorseJS () {
 initialize
 makeHorseJS ${HORSE_0001}
 makeHorseJS ${HORSE_0002}
+makeHorseJS ${HORSE_0004}
 putLog complete
 exit 0
