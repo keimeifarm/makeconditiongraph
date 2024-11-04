@@ -18,7 +18,7 @@ var myChart = new Chart(ctx, {
     scales: {
       y: {   // 体重
         min: 350,
-        max: 550,
+        max: 560,
         ticks: {
           color: '#333',
           stepSize: 25,
